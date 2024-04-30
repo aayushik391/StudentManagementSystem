@@ -116,7 +116,7 @@ internal class Program
             }
             else
             {
-                Console.WriteLine("Failed to create the student.");
+                Console.WriteLine("Failed to create the student. xtyh");
             }
         }
 
